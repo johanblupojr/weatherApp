@@ -39,6 +39,7 @@ function Weather() {
   return (
     <div className="container">
       <div className="weather">
+        <h1>Weather:</h1>
         <div className="search">
           <input
             type="text"
