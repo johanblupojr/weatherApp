@@ -2,6 +2,7 @@
   "name": "weatherapp",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://johanblupojr.github.io/weatherApp/",
   "type": "module",
   "scripts": {
     "dev": "vite",
