@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import MessengerCustomerChat from "react-messenger-customer-chat";
 
 function Weather() {
   const [data, setData] = useState({
@@ -72,10 +71,6 @@ function Weather() {
           </div>
         </div>
       </div>
-      <MessengerCustomerChat
-    pageId="108965818922829"
-    appId="277041771537219"
-  />,
     </div>
   );
 }
